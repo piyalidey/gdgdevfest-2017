@@ -1,6 +1,6 @@
-# Google Developer Group Silicon Valley DevFest 2016
+# Google Developer Group Silicon Valley DevFest 2017
 
-Web site for the Google Developer Group Silicon Valley (GDG-SV) 2016 DevFest. Based on project [Hoverboard](https://github.com/gdg-x/hoverboard/), pulled on 09/13/2016, version 1.0.2.
+Web site for the Google Developer Group Silicon Valley (GDG-SV) 2017 DevFest. Based on project [Hoverboard](https://github.com/gdg-x/hoverboard/), pulled on 07/19/2016, version 1.0.2.
 
 ## SetUp
 See Hoverboard setup details for requirements.
@@ -16,5 +16,5 @@ Deploy
 `firebase deploy`
 
 ## Location
-https://gdgsv-devfest-2016.firebaseapp.com/
+<to be updated>
 
