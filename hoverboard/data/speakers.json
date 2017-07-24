@@ -1,0 +1,621 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "S. P. T. Krishnan",
+        "photoUrl": "/images/people/sptkrishnan.jpg",
+        "company": "PwC",
+        "shortBio": "Krishnan is a Google Developer Expert in Google Cloud Platform. He has co-authored the book: Building Your Next Big Thing with Google Cloud Platform",
+        "bio": "Krishnan is a Google Developer Expert in Google Cloud Platform. He has co-authored the book: Building Your Next Big Thing with Google Cloud Platform, which is the first book that comprehensively covers Google Cloud Platform. The book was launched at Google IO 2015 in May 2015 and more information is available at https://bit.ly/cloudplatformbook. He also created a new undergraduate course “Cloud Computing: business case and technical models” for a private university. Krishnan is also a co-founder of Google Developer Group in Singapore.Krishnan is a seasoned professional with 16+ years of industry experience in multiple IT domains. Earlier, Krishnan has completed his PhD (Computer Engineering) & MS (Computer Science) from National University of Singapore, Singapore and Bachelor of Engineering (Electronics & Communication) from University of Madras, India. ",
+        "tags": [
+            "Cloud",
+            "Information Systems Security",
+            "Compute Engine",
+            "Big Data"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/krishnan-s-p-t"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "http://bit.ly/sptkrishnan"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/sptkrishnan"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/u/0/+KrishnanSPT"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Uri Shaked",
+        "company": "BlackBerry",
+        "photoUrl": "/images/people/uri-shaked.jpg",
+        "shortBio": "Uri Shaked is a Google Developer Expert for Web Technologies.",
+        "bio": "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing.",
+        "tags": [
+            "Firebase Specialized",
+            "Angular",
+            "Javascript"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/uri-shaked"
+            }
+        ],
+        "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://il.linkedin.com/in/urishaked"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/urishaked"
+          },
+          {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+UriShaked"
+          }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Jake Wharton",
+        "photoUrl": "/images/people/Jake_Wharton.png",
+        "company": "Square",
+        "shortBio": "Jake Wharton is an Android developer at Square working on Square Cash.",
+        "bio": "Jake Wharton is an Android developer at Square working on Square Cash. He has been living with a severe allergy to boilerplate code and bad APIs for years and speaks at conferences all around the world in an effort to educate more about this terrible disease.",
+        "tags": [
+            "Library and API Design",
+            "Application Architecture",
+            "Testing and Automation"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/jake-wharton"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jakewharton"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/JakeWharton"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+JakeWharton"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Mark Mandel",
+        "company": "Google",
+        "photoUrl": "/images/people/MarkMandel.jpg",
+        "shortBio": "Mark Mandel is a Developer Advocate for Google Cloud Platform and one half of the Google Cloud Platform Podcast.",
+        "bio": "Mark Mandel is a Developer Advocate for Google Cloud Platform and one half of the Google Cloud Platform Podcast. Hailing from Australia, Mark built his career developing backend systems for over 15 years and authoring and contributing to several widely adopted open source projects. When he’s not building infrastructure in the cloud, he’s constantly looking for new and interesting things he can do with Docker containers, playing with his dog and reading too much fantasy literature.",
+        "tags": [
+            "Google Cloud Platform",
+            "Polyglot FTW",
+            "Clojure",
+            "Go"
+        ],
+        "socials": [
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/Neurotic"
+          },
+          {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+MarkMandelDev"
+          }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "Alyssa Nicoll",
+        "company": "WeaveUp",
+        "photoUrl": "/images/people/AlyssaNicoll.jpeg",
+        "shortBio": "I am an energetic, über passionate developer. I am a Google Developer Expert.",
+        "bio": "I am an energetic, über passionate developer. I am a Google Developer Expert, Web Dev at WeaveUp and I have some Front-End and Angular courses on Code School. I love to learn new things and then share them with others. I Scuba Dive and have a toothless dog named 'Gummy'. My name is Alyssa, come talk sometime.",
+        "tags": [
+            "Angular Enthusiast",
+            "Web Dev",
+            "Ruby on Rails",
+            "JavaScript"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/alyssa-nicoll"
+            }
+        ],
+        "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/alyssa-nicoll-16988b71"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/AlyssaNicoll"
+          },
+          {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+AlyssaNicollcodes"
+          }
+      ]
+  },
+  "7": {
+      "id": 7,
+      "featured": true,
+      "name": "David Cifuentes",
+      "company": "Zalando SE",
+      "photoUrl": "/images/people/DavidCifuentes.jpeg",
+      "shortBio": "I am a Software Engineer at Zalando SE and Google Developer Expert (GDE) for Google Cloud.",
+      "bio": "David is a Software Engineer at Zalando SE and Google Developer Expert (GDE) for Google Cloud. He is based in Berlin, Germany but he comes originally from Bogotá, Colombia. For the past few years, he has been developing applications for cloud platforms in different kinds of projects ranging from advertising tech to enterprise software and IoT. In his spare time he learns German and enjoys travelling, running and road cycling.",
+      "tags": [
+          "App Engine",
+          "Cloud Datastore",
+          "Cloud Computing",
+          "Python",
+          "Java"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/david-cifuentes"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/dcifuen/"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/dcifuen"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+DavidCifuentesC"
+        }
+    ]
+  },
+  "8": {
+      "id": 8,
+      "featured": true,
+      "name": "Etienne Caron",
+      "company": "Shopify",
+      "photoUrl": "/images/people/EtienneCaron.jpeg",
+      "shortBio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms. He is now a Mobile Dev Lead for Shopify.",
+      "bio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms. He is now a Mobile Dev Lead for Shopify. Etienne has been an active member of the Android developer community in Montreal since 2010, and regularly devotes his time to mentoring startups, developers and students in the mobile space. Mentoring has included various subjects, such as client-server architecture, Android design patterns, continuous integration, software development methodologies and general software design. As part of the Montreal Android GDG, he organises meet-ups, hackathons, and gives regular talks on Android-related subjects. Previously, Etienne worked on projects ranging from high-availability stock trading software platforms, all the way to large scale municipal bike sharing systems (London’s cycle Hire amongst others). He lives in Montreal with his wife and daughter, and speaks French and English fluently.",
+      "tags": [
+          "Mobile Development",
+          "Client-Server Architecture",
+          "Embedded Software Development",
+          "Software Design"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/etienne-carons"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://ca.linkedin.com/in/etcaron"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/kanawish"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+EtienneCaron"
+        }
+    ]
+  },
+  "9": {
+      "id": 9,
+      "featured": true,
+      "name": "Hernan Liendo",
+      "company": "BotMaker",
+      "photoUrl": "/images/people/HernanLiendo.jpeg",
+      "shortBio": "As an engineering professor Hernan helped hundred of students study the prestigious course. With his new startup he humanizes interactions between brands and consumer.",
+      "bio": "+20 years' experience in IT, working with corporations, as well as being the co-founder of Mindset, ZupCat and later BotMaker. In his role as an engineering professor at two of the major Universities in Buenos Aires, he's helped hundred of students study the prestigious course. Hernan has designed games used by more than 13 million users worldwide on the Google Cloud Platform. These high quality games have been co-produced with some of the top publishers in Asia, Europe and North America. In his current startup, BotMaker, Hernan is working with an amazing team using IA to humanize interactions between brands and consumers.",
+      "tags": [
+          "Cloud Platform",
+          "Mobile Apps",
+          "Massive Games"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/hernan-liendo"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "http://ar.linkedin.com/in/hernanliendo"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/hernanliendo"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+HernanLiendo"
+        }
+    ]
+  },
+  "10": {
+      "id": 10,
+      "featured": true,
+      "name": "Keith Smyth",
+      "company": "Groupon",
+      "photoUrl": "/images/people/keithsmyth.jpg",
+      "shortBio": "Keith is a Senior Android Engineer for Groupon in Palo Alto, and has been tinkering with little green robots for over two years.",
+      "bio": "Keith is a Senior Android Engineer for Groupon in Palo Alto, and has been tinkering with little green robots for over two years. Before Android Keith has worked with C#.Net, the birthplace of RX and one of the primary adopters of great unit tests, MVVM and data binding.",
+      "tags": [
+          "Android",
+          "Mobile Apps",
+          "Data bindings"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/keithsmyth"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/keithsmyth"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+keithsmythprofile"
+        }
+    ]
+  },
+  "11": {
+      "id": 11,
+      "featured": true,
+      "name": "Kevin Nilson",
+      "company": "Google",
+      "photoUrl": "/images/people/KevinNilson.png",
+      "shortBio": "Kevin works at Google as the the team lead of the Chromecast Technical Solutions Engineer team. Kevin is a Java Champion and three-time JavaOne Rock Star",
+      "bio": "Kevin works at Google as the the team lead of the Chromecast Technical Solutions Engineer team. Kevin is a Java Champion and three-time JavaOne Rock Star. Kevin has spoken at conferences such as JavaOne, Devoxx, O’Reilly Fluent, NFJS SpringOne, JAX, Silicon Valley Code Camp, HTML5DevConf, On Android and AjaxWorld. Kevin is the co-author of 'Web 2.0 Fundamentals' In the past, Kevin was an adjunct professor at the College of San Mateo. Kevin holds a MS and BS in Computer Science from Southern Illinois University. Kevin is the leader of the Silicon Valley Java User Group, Silicon Valley Google Developer Group, Silicon Valley JavaScript Meetup and Devoxx4Kids Bay Area.",
+      "tags": [
+          "Chromecast",
+          "Google Home",
+          "Java",
+          "Android"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/kevinnilson"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/javaclimber"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+KevinNilson"
+        }
+    ]
+  },
+  "12": {
+      "id": 12,
+      "featured": true,
+      "name": "Andy Nilson",
+      "photoUrl": "/images/people/AndyNilson.jpg",
+      "shortBio": "Andy is an 11-year-old boy who grew up with coding. He has presented at JavaOne Kids Day and OSCON Kids day, and has been in the JavaOne Keynote.",
+      "bio": "Andy is an 11-year-old boy who grew up with coding. He has presented at JavaOne Kids Day and OSCON Kids day, and has been in the JavaOne Keynote.",
+      "tags": [
+          "Mindcraft",
+          "Java",
+          "Android"
+      ],
+      "socials": [
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/andy_nilson"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+AndyNilson123"
+        }
+    ]
+  },
+  "13": {
+      "id": 13,
+      "featured": true,
+      "name": "Terry Ryan",
+      "company": "Google",
+      "photoUrl": "/images/people/TerrenceRyan.jpg",
+      "shortBio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back.",
+      "bio": "Terry Ryan is a Developer Advocate for the Google Cloud Platform team. He has 15 years of experience working with the web - both front end and back. He is passionate about web standards and wants to bring web developers to the Google Cloud Platform. Before Google, he worked for Adobe and the Wharton School of Business. He also wrote Driving Technical Change for Pragmatic Bookshelf, a book that arms technology professionals with the tools to convince reluctant co-workers to adopt new tools and technology.  ",
+      "tags": [
+          "Google Cloud Platform",
+          "Google App Engine",
+          "Web Applications",
+          "Cloud Computing"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/terrencepryan"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/tpryan"
+        },
+        {
+              "icon": "gplus",
+              "name": "Google+",
+              "link": "https://plus.google.com/+TerrenceRyan"
+        }
+    ]
+  },
+  "14": {
+      "id": 14,
+      "featured": true,
+      "name": "Jessica Parsons",
+      "company": "Girl Develop It",
+      "photoUrl": "/images/people/JessicaParsons.jpeg",
+      "shortBio": "Jessica has spent half her life teaching, and a quarter of it developing for the web.",
+      "bio": "Jessica Parsons has spent half her life teaching, and a quarter of it developing for the web. Recently, she decided to combine these passions and teach web development with Girl Develop It, JobTrain, and other organizations in the area. Outside of work, she enjoys decorating wedding cakes, sewing clothing, fixing anything, and hiking with her partner and their two shibas, Petunia and Monty.",
+      "tags": [
+          "Firebase",
+          "Maps",
+          "Progressive Web Apps"
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/verythorough"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/VeryThorough"
+        }
+    ]
+  },
+  "16": {
+      "id": 16,
+      "featured": true,
+      "name": "Abraham Williams",
+      "company": "Bendyworks",
+      "photoUrl": "/images/people/AbrahamWilliams.jpg",
+      "shortBio": "An experienced developer and start-up founder, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks.",
+      "bio": "An experienced developer and start-up founder, Abraham Williams brings a broad range of skills to his current role as a senior developer at Bendyworks.  A top 1% contributor at Stack Overflow and an active member of Google Developer Groups, Abraham has been recognized by Google as a Developer Expert for his ability to identify technology problems and provide quality solutions in the community.",
+      "tags": [
+          "REST APIs",
+          "Social Integration",
+          "Web Applications",
+          "Python",
+          "JavaScript",
+          "MongoDB"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/abraham-williams"
+          }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/abraham"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+AbrahamWilliams"
+        }
+      ]
+  },
+  "17": {
+      "id": 17,
+      "featured": true,
+      "name": "Yonatan Levin",
+      "company": "Gett",
+      "photoUrl": "/images/people/YonatanLevin.jpg",
+      "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.",
+      "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field. Yonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts. His primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :) Founded and led 3 startups in the past, recently received funding for his new startup which is on the make. Currently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+      "tags": [
+          "Performance",
+          "UI/UX",
+          "Architecture",
+          "Startups",
+          "Public Speaking"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/yonatan-levin"
+          }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/parahall"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+YonatanLevin"
+        }
+      ]
+  },
+  "18": {
+      "id": 18,
+      "featured": true,
+      "name": "Siamak Ashrafi",
+      "company": "ZoeWave.com",
+      "photoUrl": "/images/people/Ash.jpg",
+      "shortBio": "CTO @ ZoeWave building physiologically intelligent clothing (technology patents) and a researcher @ TDI working on medical biomarkers.",
+      "bio": "CTO @ ZoeWave building physiologically intelligent clothing (technology patents) and a researcher @ TDI working on medical biomarkers (publications / presentations). His frequent code-a-thon wins have gone on to become published Apps (iOS & Android). As a thought leader in wearable and mobile development, he is an enthusiastic author, teacher and speaker helping promote the ecosystem (fashion & technology). You can also catch him DJing or competing in three phases of H2O (Snow / Surf / Kite - boarding).",
+      "tags": [
+          "Mobile Development",
+          "Wearables",
+          "Apps (iOS & Android)"
+      ],
+      "socials": [
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+SiamakAshrafi"
+        }
+      ]
+  },
+  "20": {
+      "id": 20,
+      "featured": true,
+      "name": "Josh Gordon",
+      "company": "Google",
+      "photoUrl": "/images/people/JoshGordon.jpg",
+      "shortBio": "Josh Gordon works on TensorFlow at Google. He loves teaching and computer science education.",
+      "bio": "Josh Gordon works on TensorFlow at Google. He loves teaching and computer science education. You can find him on Twitter at @random_forests, and on YouTube at Google Developers.",
+      "tags": [
+          "TensorFlow"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/random_forests"
+        }
+      ]
+  },
+  "21": {
+      "id": 21,
+      "featured": true,
+      "name": "Pearl Latteier",
+      "company": "Bendyworks",
+      "photoUrl": "/images/people/PearlLatteier.jpg",
+      "shortBio": "Pearl focuses primarily on building data-intensive JavaScript applications for web and mobile, most frequently with React JS and React Native.",
+      "bio": "Pearl Latteier is a software engineer at Bendyworks in Madison WI. She focuses primarily on building data-intensive JavaScript applications for web and mobile, most frequently with React JS and React Native.  Pearl has spoken at a number of technical conferences on topics including Progressive Web Apps, Web Components, and Polymer.  She is also experienced with server-side technologies including Node, Ruby on Rails, and PHP. Before becoming a software developer, Pearl earned a PhD in from the University of Wisconsin-Madison, where for five years she taught courses in the Department of Communication Arts.",
+      "tags": [
+          "Progressive Web Apps",
+          "Web Components",
+          "Polymer"
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/pblatteier"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/113160844823182235300"
+        }
+      ]
+  },
+  "22": {
+      "id": 22,
+      "featured": true,
+      "name": "Kenneth Rohde Christiansen",
+      "company": "Intel Corporation",
+      "photoUrl": "/images/people/kennethchristiansen.png",
+      "shortBio": "Kenneth is a Danish software engineer and architect, specialized in mobile and web technology.",
+      "bio": "Kenneth Rohde Christiansen is a Danish software engineer and architect, specialized in mobile and web technology. Working at Intel out of Copenhagen, Kenneth helps define Intel's strategy and plans regarding the Web Platform, as well as puts it into action. Before joining Intel, Kenneth was employed by Nokia (Denmark and Brazil) where he worked on the Nokia N9 web browser, Qt, WebKit, as well as many other mobile projects. Currently working on Progressive Web Apps and emerging web standards like Web App Manifest, Generic Sensors, Web NFC etc.",
+      "tags": [
+          "IOT",
+          "Web Technology",
+          "Polymer"
+      ],
+      "badges": [
+          {
+              "name": "GDE",
+              "description": "Google Developer Expert",
+              "link": "https://developers.google.com/experts/people/kenneth-rohde-christiansen"
+          }
+      ],
+      "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://dk.linkedin.com/in/kenneth-rohde-christiansen-a3495521"
+        },
+        {
+          "icon": "twitter",
+          "name": "Twitter",
+          "link": "https://twitter.com/kennethrohde"
+        },
+        {
+          "icon": "gplus",
+          "name": "Google+",
+          "link": "https://plus.google.com/+KennethRohdeChristiansen"
+        }
+      ]
+  }
+}

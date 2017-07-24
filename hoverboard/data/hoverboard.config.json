@@ -1,0 +1,208 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "url": "https://hoverboard.firebaseapp.com/",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "devfest@google.com",
+        "url": "mailto:devfest@google.com"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "https://www.eventbrite.com/e/devfest-west-2016-tickets-28134010583",
+    "elements": [
+      {
+        "name": "early-bird",
+        "price": 10,
+        "currency": "USD",
+        "starts": "early-bird-starts",
+        "ends": "early-bird-ends",
+        "info": "early-bird-info",
+        "soldOut": true
+      },
+      {
+        "name": "mid-morning",
+        "price": 15,
+        "currency": "USD",
+        "starts": "mid-morning-starts",
+        "ends": "mid-morning-ends",
+        "info": "mid-morning-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 20,
+        "currency": "USD",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 300,
+      "caption": "attendees"
+    },
+    {
+      "counter": 1,
+      "caption": "days"
+    },
+    {
+      "counter": 20,
+      "caption": "sessions"
+    },
+    {
+      "counter": 2,
+      "caption": "tracks"
+    }
+  ],
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDGSV",
+      "url": "https://twitter.com/gdgsv"
+    },
+    {
+      "name": "gplus",
+      "nickname": "107299704799906781285",
+      "url": "https://plus.google.com/b/107299704799906781285"
+    },
+    {
+      "name": "website",
+      "nickname": "GDGLSV",
+      "url": "https://www.meetup.com/gdg-silicon-valley/"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "google-developers-group-silicon-valley",
+      "url": "https://www.linkedin.com/groups/67627"
+    }
+  ],
+  "gallery": {
+    "albumUrl": "https://plus.google.com/photos/107299704799906781285/albums/6225267644626135953?authkey=COyx8M-Vz_LasAE",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "",
+    "pointer": {
+      "latitude": 37.425957,
+      "longitude": -122.0732859,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 37.425957,
+      "longitude": -122.0732859
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  }
+}

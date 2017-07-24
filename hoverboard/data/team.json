@@ -1,0 +1,58 @@
+[
+  {
+    "title": "GDG Silicon Valley",
+    "members": [
+      {
+        "name": "Trish Whetzel",
+        "photoUrl": "/images/people/twhetzel.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+TrishWhetzel",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/TrishWhetzel",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Co-Organizer"
+      },
+      {
+        "name": "Piyali Dey",
+        "photoUrl": "/images/people/pdey.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/gradgospel",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Co-Organizer"
+      },
+      {
+        "name": "Peter Mooshammer",
+        "photoUrl": "/images/people/pmooshammer.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+PeterMooshammer",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/pmoosh",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.mooshammer.us/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Co-Organizer"
+      }
+    ]
+  }
+]
